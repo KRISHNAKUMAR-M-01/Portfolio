@@ -23,4 +23,8 @@
     transform: scale(1.05);
     transition: transform 0.9s ease-in-out;
 }
+.slanted-section {
+    padding-top: 100px ;
+    clip-path: polygon(0 6vh, 100% 0, 100% 100%, 0 100%);
+}
 
