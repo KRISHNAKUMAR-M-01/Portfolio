@@ -24,7 +24,9 @@
     transition: transform 0.9s ease-in-out;
 }
 .slanted-section {
-    padding-top: 100px ;
-    clip-path: polygon(0 6vh, 100% 0, 100% 100%, 0 100%);
+    padding-top: 140px ;
+    padding-bottom: 140px;
+    clip-path: polygon(0 6vh, 100% 0, 100% 95%, 0 100%);
+    
 }
 
